@@ -1,4 +1,4 @@
-# MAPS
+<img width="3127" height="1261" alt="motivation" src="https://github.com/user-attachments/assets/57a82718-c585-49c7-831a-c43aa10febe8" /><img width="3049" height="1258" alt="MAPS" src="https://github.com/user-attachments/assets/146a4f51-5fea-4a9d-839a-cc7decd23cfe" /># MAPS
 
 
 <h1 align="center">MAPS: Multi-Anchor Projection Similarity for Joint Vision-Language Geo-Localization</h1>
@@ -20,11 +20,8 @@ Humans localize places by integrating perceptual cues from vision with semantic 
 </p>
 
 
-<p align="center">
-  <img width="100%" alt="motivation" src="figs/motivation.pdf" />
-  <br>
-  <em>Figure 1. Comparison between pairwise alignment and MAPS.</em>
-</p>
+<img width="3127" height="1261" alt="motivation" src="https://github.com/user-attachments/assets/9d7822e1-b5fd-4d47-9f13-94c911817415" />
+
 
 
 
