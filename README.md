@@ -10,7 +10,8 @@
 
 
 ## 🔥 Update
-- **2026.6.21** The paper is post on arXiv!([CORE]([(https://arxiv.org/abs/2603.08491])))
+- **2026.6.21** The paper is post on arXiv!
+[([MAPS](https://arxiv.org/abs/2606.22543))
 
 
 ##  Abstract
