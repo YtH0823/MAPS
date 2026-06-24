@@ -20,7 +20,11 @@ Humans localize places by integrating perceptual cues from vision with semantic 
 </p>
 
 
-
+<p align="center">
+  <img width="100%" alt="motivation" src="figs/motivation.pdf" />
+  <br>
+  <em>Figure 1. Comparison between pairwise alignment and MAPS.</em>
+</p>
 
 
 
