@@ -1,3 +1,5 @@
+<img width="2853" height="925" alt="MAPS" src="https://github.com/user-attachments/assets/e7cc1582-9ce3-48e7-98bf-a580e997e8e9" />
+
 
 
 
@@ -27,10 +29,11 @@ Humans localize places by integrating perceptual cues from vision with semantic 
 </p>
 
 <p align="center">
-  <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/215bd153-bf55-43e8-8a62-476107089f94" />
+  <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/bf98cf0a-9fae-4c9e-bdc0-bb45f8ed3053" />
   <br>
   <em>Figure 2. Computation process of MAPS. </em>
 </p>
+
 
 
 
