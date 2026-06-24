@@ -23,9 +23,14 @@ Humans localize places by integrating perceptual cues from vision with semantic 
 <p align="center">
   <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/d8865982-1d96-4d71-8173-d2e2f097eddd"  />
   <br>
-  <em>Figure 1. Geographical distribution map of sampled images and corresponding text annotations from the CORE dataset.</em>
+  <em>Figure 1. Comparison between pairwise alignment and MAPS.</em>
 </p>
 
+<p align="center">
+  <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/215bd153-bf55-43e8-8a62-476107089f94" />
+  <br>
+  <em>Figure 2. Computation process of MAPS. </em>
+</p>
 
 
 
