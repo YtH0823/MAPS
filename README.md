@@ -1,8 +1,3 @@
-<img width="2853" height="925" alt="MAPS" src="https://github.com/user-attachments/assets/e7cc1582-9ce3-48e7-98bf-a580e997e8e9" />
-
-
-
-
 <h1 align="center">MAPS: Multi-Anchor Projection Similarity for Joint Vision-Language Geo-Localization</h1>
 
 <p align="center">
