@@ -20,6 +20,15 @@ Humans localize places by integrating perceptual cues from vision with semantic 
 </p>
 
 
+<p align="center">
+  <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/d8865982-1d96-4d71-8173-d2e2f097eddd"  />
+  <br>
+  <em>Figure 1. Geographical distribution map of sampled images and corresponding text annotations from the CORE dataset.</em>
+</p>
+
+
+
+
 ##  Code
 The complete source code will be made publicly available upon acceptance.
 
